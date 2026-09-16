@@ -30,15 +30,15 @@
 
   <a href="https://www.linkedin.com/in/abdullah-naeem-965aa4436">
     <img 
-      src="https://img.shields.io/badge/🔗%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Connect on LinkedIn"
     />
   </a>
 
   <a href="https://github.com/shahnaeem102005-hash">
     <img 
-      src="https://img.shields.io/badge/🐙%20GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
+      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Follow on GitHub"
     />
   </a>
 
