@@ -19,24 +19,17 @@
 <!-- ==================== SOCIAL BADGES ==================== -->
 
 <p align="center">
-
   <a href="mailto:abdullahnaem102005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
   <a href="https://github.com/iabdullah-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
   <img src="https://komarev.com/ghpvc/?username=iabdullah-dev&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
-
   <img src="https://img.shields.io/github/followers/iabdullah-dev?label=Followers&style=for-the-badge&color=7C3AED" />
-
 </p>
 
 <br />
-
-<!-- ==================== ABOUT ME ==================== -->
 
 # 👨‍💻 About Me
 
