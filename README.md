@@ -1,11 +1,11 @@
 <!-- ==================== MODERN GLOWING HEADER BANNER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=280&section=header&text=ABDULLAH%20NAEEM&fontSize=55&fontColor=38BDF8&animation=twinkle&fontAlignY=38&desc=FULL%20STACK%20MERN%20DEVELOPER&descSize=20&descAlignY=62&descColor=C084FC" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:312E81&height=280&section=header&text=ABDULLAH%20NAEEM&fontSize=55&fontColor=38BDF8&animation=twinkle&fontAlignY=38&desc=BACKEND%20%26%20FULL%20STACK%20DEVELOPER&descSize=20&descAlignY=62&descColor=C084FC" width="100%" />
 </p>
 
 <!-- ==================== TYPING SUBTITLE ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;Databases+%26+Cloud+Architect;Open+Source+Contributor;Building+Scalable+Web+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;Backend+Architecture+%26+APIs;Databases+%26+Cloud+Architect;Open+Source+Contributor" />
 </p>
 
 <!-- ==================== SOCIAL BADGES ==================== -->
@@ -28,22 +28,46 @@
 <!-- ==================== ABOUT ME ==================== -->
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** Pursuing **A Level (Computer Science)** & **Full Stack MERN Development**
-- 💡 **Focus Areas:** Scalable Web Applications, Modern Frontend UI/UX, RESTful APIs, & Cloud Databases
-- 🛠️ **Current Focus:** Data Structures & Algorithms, Advanced JavaScript Logic, & System Architecture
-- 🎯 **Goal:** Building production-grade Web Applications & contributing to Open Source Software
+- 🎓 **Education:** Pursuing **A Level (Computer Science & Mathematics)** & **Full Stack MERN Development**
+- 💡 **Primary Focus:** Backend Engineering, Scalable APIs, Microservices & Database Architecture
+- 🛠️ **Current Learning:** System Design, Data Structures & Algorithms, & Advanced Node.js Performance
+- 🎯 **Goal:** Building high-performance backend systems & production-grade web applications
 
 <br />
 
-<!-- ==================== TECH STACK (LARGE ICONS) ==================== -->
+<!-- ==================== TECH STACK ==================== -->
 ### 🛠️ Tech Stack & Ecosystem
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/> |
-| **Frontend** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="45" height="45"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45"/> |
-| **Backend & Databases** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="45" height="45"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="45"/> |
-| **Tools & Cloud** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="45" height="45"/> |
+**Backend & Databases (Core Specialization):**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+**Frontend Technologies:**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+**Tools & DevOps Environment:**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
 <br />
 
@@ -52,8 +76,8 @@
 
 | Project | Tech Stack | Description | Links |
 | :--- | :--- | :--- | :--- |
-| **MERN E-Commerce** | React, Node, MongoDB | Full-featured online store with auth & payments. | [Code](https://github.com/iabdullah-dev) \| [Live Demo](https://vercel.com) |
-| **Task Management App** | Next.js, Tailwind, Firebase | Real-time task tracking with dark mode support. | [Code](https://github.com/iabdullah-dev) \| [Live Demo](https://vercel.com) |
+| **Backend API Gateway** | Node.js, Express, MongoDB | Scalable API with Auth, Rate-limiting & JWT Security | [Code](https://github.com/iabdullah-dev) |
+| **Full-Stack E-Commerce** | React, Express, MongoDB | E-commerce application with dynamic state and order management | [Code](https://github.com/iabdullah-dev) |
 
 <br />
 
@@ -82,9 +106,5 @@
 
 <!-- ==================== FOOTER ==================== -->
 <p align="center">
-  <img src="https://github-readme-joke-post.vercel.app/api?theme=dracula" />
-</p>
-
-<p align="center">
-  <sub>⚡ <i>Building scalable Full Stack MERN applications, one commit at a time!</i></sub>
+  <sub>⚡ <i>Architecting scalable backends and robust full-stack web systems.</i></sub>
 </p>
