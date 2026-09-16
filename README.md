@@ -1,79 +1,233 @@
-<!-- ==================== HEADER BANNER ==================== -->
+<!-- ====================================================== -->
+
+<!--                    3D HEADER COVER                     -->
+
+<!-- ====================================================== -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=100&lines=Hi%2C+I'm+Abdullah+Naeem+👋;MERN+Stack+%26+Backend+Architect;A-Level+Math+%26+Computer+Science" alt="Header Banner" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:6366F1&height=220&section=header&text=Abdullah%20Naeem&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20%7C%20MERN%20%7C%20Backend%20Developer&descAlignY=55&descSize=18&animation=fadeIn"
+    width="100%"
+  />
 </p>
 
-<!-- ==================== SOCIAL LINKS & VIEWS ==================== -->
+<!-- ==================== TYPING INTRO ==================== -->
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdullah-naeem-965aa4436" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=850&height=80&lines=Hi%2C+I'm+Abdullah+Naeem+%F0%9F%91%8B;MERN+Stack+%26+Backend+Developer;Full-Stack+Developer+%7C+API+Architect;Building+Scalable+Web+Applications+%F0%9F%9A%80"
+    alt="Typing Introduction"
+  />
+</p>
+
+<p align="center">
+  <b>🚀 Building scalable applications • Designing powerful APIs • Learning every day</b>
+</p>
+
+<!-- ==================== SOCIAL LINKS ==================== -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdullah-naeem-965aa4436">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/shahnaeem102005-hash" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+  <a href="https://github.com/shahnaeem102005-hash">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=shahnaeem102005-hash&label=Profile%20Views&color=6366f1&style=for-the-badge" />
+
+  <img src="https://komarev.com/ghpvc/?username=shahnaeem102005-hash&label=Profile%20Views&color=6366F1&style=for-the-badge" />
 </p>
 
 ---
 
 <!-- ==================== ABOUT ME ==================== -->
-### <p align="center">🚀 About Me</p>
+
+<h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  🎓 <b>A-Level Student</b> specializing in <b>Mathematics</b> & <b>Computer Science</b>.<br>
-  💻 Passionate <b>MERN Stack & Full-Stack Developer</b> with a deep focus on <b>Backend Architecture</b>.<br>
-  ⚡ Specialized in building scalable REST APIs, database management, and server-side logic while maintaining solid frontend integration.<br>
-  🧠 Strong grasp of Data Structures, Algorithms, SQL/NoSQL schemas, and system design.
+  🎓 <b>A-Level Student</b> focused on <b>Mathematics & Computer Science</b>
+  <br><br>
+
+💻 <b>Full-Stack / MERN Developer</b> with a strong interest in <b>Backend Engineering & System Architecture</b> <br><br>
+
+⚙️ I build <b>RESTful APIs, authentication systems, database-driven applications,
+server-side logic and scalable backend architectures.</b> <br><br>
+
+🧠 Interested in <b>Data Structures, Algorithms, Database Design,
+API Architecture, Performance & System Design.</b> <br><br>
+
+🔐 Exploring <b>Authentication, Authorization, Security, JWT,
+middleware and production-ready backend development.</b> <br><br>
+
+🚀 My goal is to become a strong <b>Full-Stack Engineer</b>
+with deep expertise in <b>Backend Development.</b>
+
 </p>
 
 ---
 
-<!-- ==================== SKILLS & TECH STACK ==================== -->
-### <p align="center">🛠️ Technology Stack</p>
+<!-- ==================== BACKEND ==================== -->
 
-**Core Backend & Databases (Primary Focus):**
+<h2 align="center">⚙️ Backend Engineering</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,js,ts,mongodb,postgres,mysql,redis,firebase&perline=9" />
 </p>
 
-**Languages, Frontend & Tools:**
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <b>Backend Focus</b>
+</p>
+
+<p align="center">
+  🔹 REST API Development &nbsp; • &nbsp;
+  🔹 Authentication & Authorization
+  <br>
+  🔹 JWT & Middleware &nbsp; • &nbsp;
+  🔹 Database Design &nbsp; • &nbsp;
+  🔹 CRUD Operations
+  <br>
+  🔹 API Integration &nbsp; • &nbsp;
+  🔹 Server-Side Logic &nbsp; • &nbsp;
+  🔹 SQL / NoSQL
+  <br>
+  🔹 Caching &nbsp; • &nbsp;
+  🔹 Error Handling &nbsp; • &nbsp;
+  🔹 Scalable Architecture
+</p>
+
+---
+
+<!-- ==================== LANGUAGES ==================== -->
+
+<h2 align="center">💻 Languages</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,cpp&perline=6" />
+</p>
+
+---
+
+<!-- ==================== FRONTEND ==================== -->
+
+<h2 align="center">🎨 Frontend Development</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&perline=6" />
+</p>
+
+<p align="center">
+  <b>Responsive UI • Component-Based Development • Modern CSS • React</b>
+</p>
+
+---
+
+<!-- ==================== DATABASES ==================== -->
+
+<h2 align="center">🗄️ Databases & Data</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase&perline=5" />
+</p>
+
+<p align="center">
+  <b>MongoDB • PostgreSQL • MySQL • Redis • Firebase</b>
+</p>
+
+---
+
+<!-- ==================== TOOLS ==================== -->
+
+<h2 align="center">🛠️ Tools & DevOps</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,linux&perline=7" />
+</p>
+
+---
+
+<!-- ==================== DEVELOPMENT WORKFLOW ==================== -->
+
+<h2 align="center">🔄 Development Workflow</h2>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/1%20-%20Plan-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/2%20-%20Design-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/3%20-%20Develop-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/4%20-%20Test-0891B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/5%20-%20Deploy-059669?style=for-the-badge" />
+
 </p>
 
 ---
 
 <!-- ==================== GITHUB ANALYTICS ==================== -->
-### <p align="center">📊 GitHub Activity Analytics</p>
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shahnaeem102005-hash&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnaeem102005-hash&layout=compact&theme=dracula&hide_border=true" />
+  <img 
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=shahnaeem102005-hash&show_icons=true&theme=dracula&hide_border=true&count_private=true"
+  />
+
+<img 
+ width="49%"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnaeem102005-hash&layout=compact&theme=dracula&hide_border=true"
+/>
+
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahnaeem102005-hash&theme=dracula&hide_border=true" />
+  <img 
+    width="98%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shahnaeem102005-hash&theme=dracula&hide_border=true"
+  />
 </p>
 
 ---
 
-<!-- ==================== HUMOR & FOOTER ==================== -->
-### <p align="center">⚡ Developer Humor</p>
+<!-- ==================== GITHUB TROPHIES ==================== -->
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shahnaeem102005-hash&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</p>
+
+---
+
+<!-- ==================== CURRENT FOCUS ==================== -->
+
+<h2 align="center">🎯 Current Focus</h2>
+
+<p align="center">
+  🚀 Advanced JavaScript
+  &nbsp; • &nbsp;
+  ⚛️ React
+  &nbsp; • &nbsp;
+  🟢 Node.js
+  <br><br>
+
+🗄️ Database Architecture
+  •  
+🔐 Authentication & Security
+  •  
+🏗️ System Design <br><br>
+
+🐳 Docker
+  •  
+☁️ Deployment
+  •  
+📡 REST API Architecture
+
+</p>
+
+---
+
+<!-- ==================== DEVELOPER HUMOR ==================== -->
+
+<h2 align="center">⚡ Developer Humor</h2>
 
 <p align="center">
   <img src="https://github-readme-joke-post.vercel.app/api?theme=dracula" />
@@ -81,6 +235,19 @@
 
 ---
 
+<!-- ==================== FOOTER ==================== -->
+
 <p align="center">
-  <i>⚡ Continuous growth & learning @ SMIT</i>
+  <b>⚡ Continuous Learning • Continuous Building • Continuous Growth</b>
+</p>
+
+<p align="center">
+  <i>Learning & building @ SMIT 🚀</i>
+</p>
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:312E81,100:0F172A&height=120&section=footer"
+    width="100%"
+  />
 </p>
