@@ -1,6 +1,6 @@
 <!-- ==================== PREMIUM GLOWING HEADER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36,48&height=280&section=header&text=ABDULLAH%20NAEEM&fontSize=55&fontColor=38BDF8&animation=twinkle&fontAlignY=38&desc=BACKEND%20%26%20FULL%20STACK%20ENGINEER&descSize=20&descAlignY=62&descColor=C084FC" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:312E81&height=280&section=header&text=ABDULLAH%20NAEEM&fontSize=55&fontColor=38BDF8&animation=twinkle&fontAlignY=38&desc=BACKEND%20%26%20FULL%20STACK%20ENGINEER&descSize=20&descAlignY=62&descColor=C084FC" width="100%" />
 </p>
 
 <!-- ==================== TYPING SUBTITLE ==================== -->
@@ -28,22 +28,44 @@
 <!-- ==================== ABOUT ME ==================== -->
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** Pursuing **A Level (Computer Science & Mathematics)** & **Full Stack MERN Development**
-- ⚙️ **Primary Focus:** High-Performance Backend Systems, Microservices, REST APIs, & Cloud Databases
-- 🛠️ **Current Engineering Focus:** System Design, Data Structures & Algorithms, & Advanced Node.js Performance
-- 🎯 **Goal:** Building production-grade, fault-tolerant web software & contributing to Open Source
+- 🎓 **Education:** Pursuing **A Level (Computer Science)** & **Full Stack MERN Development**
+- ⚙️ **Primary Focus:** High-Performance Backend Systems, REST APIs, Microservices & Database Architecture
+- 🛠️ **Current Focus:** System Design, Data Structures & Algorithms, & Advanced Node.js Performance
+- 🎯 **Goal:** Building production-grade, fault-tolerant backend software & contributing to Open Source
 
 <br />
 
-<!-- ==================== TECH STACK (PREMIUM SVG ICONS) ==================== -->
+<!-- ==================== TECH STACK ==================== -->
 ### 🛠️ Tech Stack & Ecosystem
 
-| Layer | Primary Technologies & Tooling |
-| :--- | :--- |
-| **Backend & Databases** *(Specialization)* | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="48" height="48"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="48" height="48"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="48" height="48"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="48" height="48"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="48" height="48"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="48" height="48"/> |
-| **Languages** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="48" height="48"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="48" height="48"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="48" height="48"/> |
-| **Frontend UI** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="48" height="48"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="48" height="48"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="48" height="48"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="48" height="48"/> |
-| **Tools & Cloud** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="48" height="48"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="48" height="48"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="48" height="48"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="48" height="48"/> |
+**Backend & Databases (Specialization):**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+**Languages & Frontend:**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+**Tools & Environment:**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
 <br />
 
@@ -52,7 +74,7 @@
 
 | Project | Stack | Core Features & Architecture | Link |
 | :--- | :--- | :--- | :--- |
-| **Scalable API Gateway** | Node.js, Express, MongoDB, Redis | JWT Authentication, Rate-Limiting, Role-based Access Control | [View Repository](https://github.com/iabdullah-dev) |
+| **Scalable API Gateway** | Node.js, Express, MongoDB | JWT Authentication, Rate-Limiting, Role-based Access Control | [View Repository](https://github.com/iabdullah-dev) |
 | **Production E-Commerce Platform** | React, Node.js, Express, MongoDB | Dynamic Cart System, Stripe Gateway Integration, Order Pipeline | [View Repository](https://github.com/iabdullah-dev) |
 
 <br />
@@ -80,15 +102,6 @@
 
 <br />
 
-<!-- ==================== CONTRIBUTION SNAKE ==================== -->
-### 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iabdullah-dev/iabdullah-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
-</p>
-
-<br />
-
 <!-- ==================== GET IN TOUCH ==================== -->
 ### 🤝 Let's Connect & Collaborate
 
@@ -108,4 +121,4 @@
 <!-- ==================== FOOTER ==================== -->
 <p align="center">
   <sub>⚡ <i>Architecting scalable backends and robust full-stack web systems.</i></sub>
-</p>
+</p>vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
