@@ -1,13 +1,11 @@
-<!-- ==================== HEADER ==================== -->
+<!-- ==================== HIGH-TECH ANIMATED BANNER ==================== -->
 <p align="center">
-  <a href="https://github.com/iabdullah-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=100&lines=ABDULLAH+NAEEM;BACKEND+%26+FULL+STACK+ENGINEER" alt="Header Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f2937&height=260&section=header&text=ABDULLAH%20NAEEM&fontSize=52&fontColor=38BDF8&animation=twinkle&fontAlignY=38&desc=BACKEND%20%26%20FULL%20STACK%20ENGINEER&descSize=18&descAlignY=62&descColor=C084FC" width="100%" alt="Header Banner" />
 </p>
 
-<!-- ==================== SUBTITLE ==================== -->
+<!-- ==================== TYPING SUBTITLE ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=High-Performance+Backend+Architecture;RESTful+APIs+%26+Microservices;Full+Stack+MERN+Development;Database+Design+%26+Optimization" alt="Subtitle Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=High-Performance+Backend+Architecture;RESTful+APIs+%26+Microservices;Full+Stack+MERN+Development;Database+Design+%26+Optimization" alt="Subtitle Typing SVG" />
 </p>
 
 <!-- ==================== SOCIAL BADGES ==================== -->
@@ -29,7 +27,7 @@
 <!-- ==================== ABOUT ME ==================== -->
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** Pursuing **A Level (Computer Science)** & **Full Stack MERN Development**
+- 🎓 **Education:** Pursuing **A Level (Computer Science & Mathematics)** & **Full Stack MERN Development**
 - ⚙️ **Primary Focus:** High-Performance Backend Systems, REST APIs, Microservices & Database Architecture
 - 🛠️ **Current Focus:** System Design, Data Structures & Algorithms, & Advanced Node.js Performance
 - 🎯 **Goal:** Building production-grade, fault-tolerant backend software & contributing to Open Source
