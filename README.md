@@ -1,11 +1,13 @@
-<!-- ==================== PREMIUM GLOWING HEADER ==================== -->
+<!-- ==================== HEADER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:312E81&height=280&section=header&text=ABDULLAH%20NAEEM&fontSize=55&fontColor=38BDF8&animation=twinkle&fontAlignY=38&desc=BACKEND%20%26%20FULL%20STACK%20ENGINEER&descSize=20&descAlignY=62&descColor=C084FC" width="100%" />
+  <a href="https://github.com/iabdullah-dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=100&lines=ABDULLAH+NAEEM;BACKEND+%26+FULL+STACK+ENGINEER" alt="Header Typing SVG" />
+  </a>
 </p>
 
-<!-- ==================== TYPING SUBTITLE ==================== -->
+<!-- ==================== SUBTITLE ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Backend+Architecture+%26+RESTful+APIs;Full+Stack+MERN+Engineer;High-Performance+Databases;Scalable+System+Design" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=High-Performance+Backend+Architecture;RESTful+APIs+%26+Microservices;Full+Stack+MERN+Development;Database+Design+%26+Optimization" alt="Subtitle Typing SVG" />
 </p>
 
 <!-- ==================== SOCIAL BADGES ==================== -->
@@ -20,10 +22,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=iabdullah-dev&label=Profile%20Views&color=007ACC&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/iabdullah-dev?label=Followers&style=for-the-badge&color=blueviolet" />
 </p>
 
-<br />
+<hr />
 
 <!-- ==================== ABOUT ME ==================== -->
 ### 👨‍💻 About Me
@@ -33,12 +34,12 @@
 - 🛠️ **Current Focus:** System Design, Data Structures & Algorithms, & Advanced Node.js Performance
 - 🎯 **Goal:** Building production-grade, fault-tolerant backend software & contributing to Open Source
 
-<br />
+<hr />
 
 <!-- ==================== TECH STACK ==================== -->
 ### 🛠️ Tech Stack & Ecosystem
 
-**Backend & Databases (Specialization):**
+**Backend & Databases (Core Specialization):**
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -67,7 +68,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-<br />
+<hr />
 
 <!-- ==================== FEATURED PROJECTS ==================== -->
 ### 🚀 Featured Engineering Projects
@@ -77,30 +78,7 @@
 | **Scalable API Gateway** | Node.js, Express, MongoDB | JWT Authentication, Rate-Limiting, Role-based Access Control | [View Repository](https://github.com/iabdullah-dev) |
 | **Production E-Commerce Platform** | React, Node.js, Express, MongoDB | Dynamic Cart System, Stripe Gateway Integration, Order Pipeline | [View Repository](https://github.com/iabdullah-dev) |
 
-<br />
-
-<!-- ==================== GITHUB TROPHIES ==================== -->
-### 🏆 GitHub Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iabdullah-dev&theme=dracula&no-bg=true&no-frame=true&margin-w=4&margin-h=4" />
-</p>
-
-<br />
-
-<!-- ==================== GITHUB ANALYTICS ==================== -->
-### 📊 Performance & Commit Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iabdullah-dev&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iabdullah-dev&layout=compact&theme=dracula&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=iabdullah-dev&theme=dracula&hide_border=true" />
-</p>
-
-<br />
+<hr />
 
 <!-- ==================== GET IN TOUCH ==================== -->
 ### 🤝 Let's Connect & Collaborate
@@ -121,4 +99,4 @@
 <!-- ==================== FOOTER ==================== -->
 <p align="center">
   <sub>⚡ <i>Architecting scalable backends and robust full-stack web systems.</i></sub>
-</p>vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+</p>
