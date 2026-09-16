@@ -1,77 +1,101 @@
-<!-- ==================== TOP BANNER ==================== -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Header Banner" />
-</p>
+<!-- ==================== GITHUB METRICS STYLE HEADER ==================== -->
+<table border="0" width="100%">
+  <tr>
+    <!-- LEFT COLUMN: Profile Info & Bio -->
+    <td width="35%" valign="top" align="center">
+      <br />
+      <a href="https://github.com/iabdullah-dev">
+        <img src="https://github.com/iabdullah-dev.png" width="140" style="border-radius: 50%; border: 3px solid #38BDF8;" alt="Abdullah Naeem Profile Image" />
+      </a>
+      <h2 align="center">Abdullah Naeem</h2>
+      <p align="center"><b>Backend & Full Stack Engineer</b></p>
+      
+      <p align="left">
+        📍 Pakistan<br />
+        🎓 A Level (CS & Math)<br />
+        💻 MERN Stack @ Saylani<br />
+        🎯 Scalable Systems & APIs
+      </p>
 
-<!-- ==================== HEADER TEXT ==================== -->
-<h1 align="center">Hi, I'm Abdullah Naeem 👋</h1>
-<h3 align="center">A Backend & Full Stack Engineer in the making 🚀</h3>
+      <p align="center">
+        <a href="mailto:abdullahnaem102005@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+        </a>
+        <a href="https://www.linkedin.com/in/abdullah-naeem-965aa4436/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+        </a>
+      </p>
+    </td>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=High-Performance+Backend+Architecture;RESTful+APIs+%26+Microservices;Full+Stack+MERN+Development;Database+Design+%26+Optimization" alt="Typing SVG" />
-</p>
+    <!-- RIGHT COLUMN: Metrics, Stats & Activity -->
+    <td width="65%" valign="top">
+      <br />
+      <!-- 3D Contribution Calendar Grid -->
+      <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=iabdullah-dev&theme=dracula&no-bg=true&no-frame=true&column=4" width="100%" alt="Trophies" />
+      </p>
 
-<p align="center">
-  <a href="mailto:abdullahnaem102005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/iabdullah-dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/abdullah-naeem-965aa4436/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+      <!-- Language Activity Bar -->
+      <p align="center">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iabdullah-dev&layout=compact&theme=dracula&hide_border=true" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-<br />
+<hr />
 
-<!-- ==================== ABOUT ME ==================== -->
-<p align="center">
-  I'm currently pursuing <b>A Level (Computer Science & Mathematics)</b> and learning <b>Full Stack MERN Development</b> at Saylani.<br />
-  I have a strong passion for building high-performance backend systems, RESTful APIs, and working with complex databases.<br />
-  Apart from coding, I like to solve complex algorithm problems, explore modern server architecture, and contribute to open-source projects.
-</p>
-
-<br />
-
-<!-- ==================== TECH STACK ==================== -->
-<h3 align="center">🛠️ Technology Stack</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-<br />
-
-<!-- ==================== GITHUB STATS ==================== -->
-<h3 align="center">📊 My GitHub Stats</h3>
+<!-- ==================== DASHBOARD METRICS SECTION ==================== -->
+<h3 align="center">📊 System Metrics & GitHub Analytics</h3>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iabdullah-dev&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iabdullah-dev&layout=compact&theme=dracula&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iabdullah-dev&theme=dracula&hide_border=true" />
+</p>
+
+<hr />
+
+<!-- ==================== TECH STACK GRID ==================== -->
+<h3 align="center">⚙️ Mastered Technologies & Stack</h3>
+
+<p align="center">
+  <b>Backend & Databases:</b><br />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=iabdullah-dev&theme=dracula&hide_border=true" />
+  <b>Languages & Frontend:</b><br />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-<br />
+<hr />
 
-<!-- ==================== PROJECTS ==================== -->
-<h3 align="center">🚀 Featured Engineering Projects</h3>
+<!-- ==================== FEATURED PROJECTS ==================== -->
+<h3 align="center">🚀 Featured Repositories & Systems</h3>
 
-<p align="center">
-  <a href="https://github.com/iabdullah-dev"><b>Scalable API Gateway</b></a> — Built with Node.js, Express, MongoDB. Features JWT auth & rate-limiting.<br />
-  <a href="https://github.com/iabdullah-dev"><b>Production E-Commerce Platform</b></a> — Built with MERN Stack. Integrated with Stripe API and order workflow.
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔒 Scalable API Gateway</h4>
+      <p>Node.js, Express, MongoDB authentication server with JWT, Role-Based Access Control, and rate limiting.</p>
+      <a href="https://github.com/iabdullah-dev">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛒 Production E-Commerce Platform</h4>
+      <p>Full-stack MERN application integrated with Stripe Payment Gateway, cart management, and order processing.</p>
+      <a href="https://github.com/iabdullah-dev">View Repository →</a>
+    </td>
+  </tr>
+</table>
 
 <br />
 
