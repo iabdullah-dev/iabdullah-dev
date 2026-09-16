@@ -1,11 +1,11 @@
 <!-- ==================== MODERN GLOWING HEADER BANNER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=260&section=header&text=ABDULLAH%20NAEEM&fontSize=50&fontColor=38BDF8&animation=twinkle&fontAlignY=38&desc=FULL%20STACK%20MERN%20DEVELOPER&descSize=18&descAlignY=62&descColor=C084FC" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=280&section=header&text=ABDULLAH%20NAEEM&fontSize=55&fontColor=38BDF8&animation=twinkle&fontAlignY=38&desc=FULL%20STACK%20MERN%20DEVELOPER&descSize=20&descAlignY=62&descColor=C084FC" width="100%" />
 </p>
 
 <!-- ==================== TYPING SUBTITLE ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer+Student;Databases+%26+Cloud+Architect;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;Databases+%26+Cloud+Architect;Open+Source+Contributor;Building+Scalable+Web+Apps" />
 </p>
 
 <!-- ==================== SOCIAL BADGES ==================== -->
@@ -16,7 +16,7 @@
   <a href="https://github.com/iabdullah-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/abdullah-naeem-965aa4436/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=iabdullah-dev&label=Profile%20Views&color=007ACC&style=for-the-badge" />
@@ -29,40 +29,39 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Education:** Pursuing **Modern Web Development (Full Stack MERN)**
-- 💡 **Focus Areas:** Scalable Web Apps, Modern Frontend UI/UX, RESTful APIs, & Cloud Databases
-- 🛠️ **Current Focus:** Data Structures, JavaScript Logic, & Full-Stack System Architecture
-- 🎯 **Goal:** Building production-grade Web Applications & contributing to Open Source
+- 💡 **Focus Areas:** Scalable Web Applications, Modern Frontend UI/UX, RESTful APIs, & Cloud Databases
+- 🛠️ **Current Focus:** Data Structures & Algorithms, Advanced JavaScript, & System Architecture
+- 🎯 **Goal:** Building production-grade Web Applications & contributing to Open Source Software
 
 <br />
 
-<!-- ==================== COMPLETE TECH STACK ==================== -->
-### 🛠️ Complete Tech Stack & Ecosystem
+<!-- ==================== TECH STACK ==================== -->
+### 🛠️ Tech Stack & Ecosystem
 
-**Frontend Engineering:**
+**Frontend Engineering**
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
-**Backend Development & Databases:**
+**Backend & Databases**
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-**Tools, DevOps & Environment:**
+**Tools & Platforms**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -71,6 +70,16 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
+
+<br />
+
+<!-- ==================== FEATURED PROJECTS ==================== -->
+### 🚀 Featured Projects
+
+| Project | Tech Stack | Description | Links |
+| :--- | :--- | :--- | :--- |
+| **MERN E-Commerce** | React, Node, MongoDB | Full-featured online store with auth & payments. | [Code](https://github.com/iabdullah-dev) \| [Live Demo](https://vercel.com) |
+| **Task Management App** | Next.js, Tailwind, Firebase | Real-time task tracking with dark mode support. | [Code](https://github.com/iabdullah-dev) \| [Live Demo](https://vercel.com) |
 
 <br />
 
@@ -84,7 +93,7 @@
 <br />
 
 <!-- ==================== GITHUB ANALYTICS ==================== -->
-### 📊 GitHub Analytics & Stats
+### 📊 GitHub Analytics & Activity
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iabdullah-dev&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
@@ -93,19 +102,6 @@
 
 <p align="center">
   <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=iabdullah-dev&theme=dracula&hide_border=true" />
-</p>
-
-<br />
-
-<!-- ==================== GITHUB CONTRIBUTION SNAKE ==================== -->
-### 🐍 Contribution Graph Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iabdullah-dev/iabdullah-dev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iabdullah-dev/iabdullah-dev/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iabdullah-dev/iabdullah-dev/output/github-contribution-grid-snake.svg">
-  </picture>
 </p>
 
 <br />
