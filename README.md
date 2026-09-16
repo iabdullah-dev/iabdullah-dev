@@ -30,14 +30,38 @@
 
   <a href="https://www.linkedin.com/in/abdullah-naeem-965aa4436">
     <img 
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://cdn.simpleicons.org/linkedin/0A66C2"
+      width="48"
+      height="48"
+      alt="LinkedIn"
+    />
+  </a>
+
+    
+
+  <a href="https://github.com/shahnaeem102005-hash">
+    <img 
+      src="https://cdn.simpleicons.org/github/FFFFFF"
+      width="48"
+      height="48"
+      alt="GitHub"
+    />
+  </a>
+
+</p>
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/abdullah-naeem-965aa4436">
+    <img 
+      src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge"
       alt="Connect on LinkedIn"
     />
   </a>
 
   <a href="https://github.com/shahnaeem102005-hash">
     <img 
-      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/Follow-181717?style=for-the-badge"
       alt="Follow on GitHub"
     />
   </a>
@@ -93,8 +117,8 @@ with deep expertise in <b>Backend Development.</b>
 
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=nodejs,express,js,ts,mongodb,postgres,mysql,redis,firebase&perline=5&theme=dark"
-    width="600"
+    src="https://skillicons.dev/icons?i=express,ts,mongodb,postgres,mysql&perline=5&theme=dark"
+    width="500"
     alt="Backend Technologies"
   />
 </p>
@@ -122,7 +146,6 @@ with deep expertise in <b>Backend Development.</b>
 
 <br>
 
-🔹 Caching   •  
 🔹 Error Handling   •  
 🔹 Scalable Architecture
 
@@ -136,8 +159,8 @@ with deep expertise in <b>Backend Development.</b>
 
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=js,ts,html,css,python,cpp&perline=6&theme=dark"
-    width="500"
+    src="https://skillicons.dev/icons?i=js,ts,html,css&perline=4&theme=dark"
+    width="340"
     alt="Programming Languages"
   />
 </p>
@@ -168,14 +191,14 @@ with deep expertise in <b>Backend Development.</b>
 
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase&perline=5&theme=dark"
-    width="450"
+    src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&perline=3&theme=dark"
+    width="320"
     alt="Databases"
   />
 </p>
 
 <p align="center">
-  <b>MongoDB • PostgreSQL • MySQL • Redis • Firebase</b>
+  <b>MongoDB • PostgreSQL • MySQL</b>
 </p>
 
 ---
