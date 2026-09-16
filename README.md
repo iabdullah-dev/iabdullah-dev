@@ -1,40 +1,35 @@
-<!-- ==================== TOP PROFILE SECTION ==================== -->
-<p align="center">
-  <a href="https://github.com/iabdullah-dev">
-    <img src="https://github.com/iabdullah-dev.png" width="130" style="border-radius: 50%; border: 3px solid #38BDF8;" alt="Abdullah Naeem Profile Image" />
-  </a>
-</p>
+<!-- ==================== GITHUB METRICS STYLE HEADER ==================== -->
+<table border="0" width="100%">
+  <tr>
+    <!-- LEFT COLUMN: Profile Info & Bio -->
+    <td width="35%" valign="top" align="center">
+      <br />
+      <a href="https://github.com/iabdullah-dev">
+        <img src="https://github.com/iabdullah-dev.png" width="140" style="border-radius: 50%; border: 3px solid #38BDF8;" alt="Abdullah Naeem Profile Image" />
+      </a>
+      <h2 align="center">Abdullah Naeem</h2>
+      <p align="center"><b>Backend & Full Stack Engineer</b></p>
+      <p align="left">📍 Pakistan<br />🎓 A Level (CS & Math)<br />💻 MERN Stack @ Saylani<br />🎯 Scalable Systems & APIs</p>
+      <p align="center">
+        <a href="mailto:abdullahnaem102005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+        <a href="https://www.linkedin.com/in/abdullah-naeem-965aa4436/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+      </p>
+    </td>
 
-<h1 align="center">Abdullah Naeem</h1>
-<p align="center"><b>Backend & Full Stack Engineer</b></p>
-
-<p align="center">
-  📍 Pakistan &nbsp;|&nbsp; 
-  🎓 A Level (CS & Math) &nbsp;|&nbsp; 
-  💻 MERN Stack @ Saylani &nbsp;|&nbsp; 
-  🎯 Scalable Systems & APIs
-</p>
-
-<p align="center">
-  <a href="mailto:abdullahnaem102005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/abdullah-naeem-965aa4436/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<br />
-
-<!-- ==================== GITHUB TROPHIES & TOP LANGS ==================== -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iabdullah-dev&theme=dracula&no-bg=true&no-frame=true&column=4" width="90%" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iabdullah-dev&layout=compact&theme=dracula&hide_border=true" />
-</p>
+    <!-- RIGHT COLUMN: Metrics, Stats & Activity -->
+    <td width="65%" valign="top">
+      <br />
+      <!-- 3D Contribution Calendar Grid -->
+      <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=iabdullah-dev&theme=dracula&no-bg=true&no-frame=true&column=4" width="100%" alt="Trophies" />
+      </p>
+      <!-- Language Activity Bar -->
+      <p align="center">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iabdullah-dev&layout=compact&theme=dracula&hide_border=true" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <hr />
 
@@ -75,19 +70,20 @@
 <!-- ==================== FEATURED PROJECTS ==================== -->
 <h3 align="center">🚀 Featured Repositories & Systems</h3>
 
-<p align="center">
-  <b>🔒 Scalable API Gateway</b><br />
-  Node.js, Express, MongoDB authentication server with JWT, Role-Based Access Control, and rate limiting.<br />
-  <a href="https://github.com/iabdullah-dev">View Repository →</a>
-</p>
-
-<br />
-
-<p align="center">
-  <b>🛒 Production E-Commerce Platform</b><br />
-  Full-stack MERN application integrated with Stripe Payment Gateway, cart management, and order processing.<br />
-  <a href="https://github.com/iabdullah-dev">View Repository →</a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔒 Scalable API Gateway</h4>
+      <p>Node.js, Express, MongoDB authentication server with JWT, Role-Based Access Control, and rate limiting.</p>
+      <a href="https://github.com/iabdullah-dev">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛒 Production E-Commerce Platform</h4>
+      <p>Full-stack MERN application integrated with Stripe Payment Gateway, cart management, and order processing.</p>
+      <a href="https://github.com/iabdullah-dev">View Repository →</a>
+    </td>
+  </tr>
+</table>
 
 <br />
 
