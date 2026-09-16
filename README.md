@@ -1,6 +1,11 @@
-<!-- ==================== HIGH-TECH ANIMATED BANNER (FIXED) ==================== -->
+<!-- ==================== HIGH-TECH BANNER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f2937&height=260&section=header&text=ABDULLAH%20NAEEM&fontSize=52&fontColor=38BDF8&animation=twinkle&fontAlignY=38&desc=BACKEND%20%26%20FULL%20STACK%20ENGINEER&descSize=18&descAlignY=62&descColor=C084FC" width="100%" alt="Header Banner" />
+  <h1 align="center">
+    <font color="#38BDF8">⚡ ABDULLAH NAEEM ⚡</font>
+  </h1>
+  <p align="center">
+    <b>Backend Engineering & Full Stack Development Specialist</b>
+  </p>
 </p>
 
 <!-- ==================== TYPING SUBTITLE ==================== -->
