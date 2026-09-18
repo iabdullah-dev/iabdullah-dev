@@ -1,7 +1,5 @@
 <!-- ====================================================== -->
-
-<!--                    3D HEADER COVER                     -->
-
+<!--                     3D HEADER COVER                    -->
 <!-- ====================================================== -->
 
 <p align="center">
@@ -24,53 +22,18 @@
   <b>🚀 Building scalable applications • Designing powerful APIs • Learning every day</b>
 </p>
 
-<!-- ==================== SOCIAL LINKS ==================== -->
+<!-- ==================== SOCIAL LINKS & BADGES ==================== -->
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/abdullah-naeem-965aa4436">
-    <img 
-      src="https://cdn.simpleicons.org/linkedin/0A66C2"
-      width="48"
-      height="48"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-    
-
+  &nbsp;
   <a href="https://github.com/shahnaeem102005-hash">
-    <img 
-      src="https://cdn.simpleicons.org/github/FFFFFF"
-      width="48"
-      height="48"
-      alt="GitHub"
-    />
+    <img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge" alt="Follow on GitHub" />
   </a>
-
-</p>
-
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/abdullah-naeem-965aa4436">
-    <img 
-      src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge"
-      alt="Connect on LinkedIn"
-    />
-  </a>
-
-  <a href="https://github.com/shahnaeem102005-hash">
-    <img 
-      src="https://img.shields.io/badge/Follow-181717?style=for-the-badge"
-      alt="Follow on GitHub"
-    />
-  </a>
-
-<img 
- src="https://komarev.com/ghpvc/?username=shahnaeem102005-hash&label=Profile%20Views&color=6366F1&style=for-the-badge"
- alt="Profile Views"
-/>
-
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=shahnaeem102005-hash&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -89,23 +52,19 @@
 
 <br><br>
 
-⚙️ I build <b>RESTful APIs, authentication systems, database-driven
-applications, server-side logic and scalable backend architectures.</b>
+⚙️ I build <b>RESTful APIs, authentication systems, database-driven applications, server-side logic and scalable backend architectures.</b>
 
 <br><br>
 
-🧠 Interested in <b>Data Structures, Algorithms, Database Design,
-API Architecture, Performance & System Design.</b>
+🧠 Interested in <b>Data Structures, Algorithms, Database Design, API Architecture, Performance & System Design.</b>
 
 <br><br>
 
-🔐 Exploring <b>Authentication, Authorization, Security, JWT,
-Middleware</b> and production-ready backend development.
+🔐 Exploring <b>Authentication, Authorization, Security, JWT, Middleware</b> and production-ready backend development.
 
 <br><br>
 
-🚀 My goal is to become a strong <b>Full-Stack Engineer</b>
-with deep expertise in <b>Backend Development.</b>
+🚀 My goal is to become a strong <b>Full-Stack Engineer</b> with deep expertise in <b>Backend Development.</b>
 
 </p>
 
@@ -129,24 +88,24 @@ with deep expertise in <b>Backend Development.</b>
 
 <p align="center">
 
-🔹 REST API Development   •  
+🔹 REST API Development   •  
 🔹 Authentication & Authorization
 
 <br>
 
-🔹 JWT & Middleware   •  
-🔹 Database Design   •  
+🔹 JWT & Middleware   •  
+🔹 Database Design   •  
 🔹 CRUD Operations
 
 <br>
 
-🔹 API Integration   •  
-🔹 Server-Side Logic   •  
+🔹 API Integration   •  
+🔹 Server-Side Logic   •  
 🔹 SQL / NoSQL
 
 <br>
 
-🔹 Error Handling   •  
+🔹 Error Handling   •  
 🔹 Scalable Architecture
 
 </p>
@@ -283,25 +242,25 @@ with deep expertise in <b>Backend Development.</b>
 <p align="center">
 
 🚀 <b>Advanced JavaScript</b>
-  •  
+  •  
 ⚛️ <b>React</b>
-  •  
+  •  
 🟢 <b>Node.js</b>
 
 <br><br>
 
 🗄️ <b>Database Architecture</b>
-  •  
+  •  
 🔐 <b>Authentication & Security</b>
-  •  
+  •  
 🏗️ <b>System Design</b>
 
 <br><br>
 
 🐳 <b>Docker</b>
-  •  
+  •  
 ☁️ <b>Deployment</b>
-  •  
+  •  
 📡 <b>REST API Architecture</b>
 
 </p>
